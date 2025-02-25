@@ -1,6 +1,6 @@
 # ⚔️ Valhalla Online – Servidor Privado de Ragnarok🌍  
 
-Bienvenido a **Valhalla Online**, un servidor privado de **RRO** diseñado para ofrecer una experiencia clásica con mejoras modernas. 🏰⚔️  
+Bienvenido a **Valhalla Online**, un servidor privado de **RO** diseñado para ofrecer una experiencia clásica con mejoras modernas. 🏰⚔️  
 
 <a href="https://valhallaonline.net"><img src="https://valhallaonline.net/themes/valhalla/images/header.jpg" style="max-width: 40%;"></a>
 # 🛡️ Información del Servidor – Valhalla Online
@@ -50,7 +50,7 @@ En un mundo donde la guerra entre dioses, humanos y demonios nunca cesa, solo lo
 ## 📌 Enlaces Oficiales  
 
 🌐 **Web:** [valhallaonline.net](https://valhallaonline.net)  
-📢 **Discord:** [Enlace](https://valhallaonline.net/discord)  
+📢 **Discord:** [Únete](https://valhallaonline.net/discord)  
 📷 **Redes Sociales:** [Facebook](https://www.facebook.com/serverValhalla) | [Twitter](#)  
 
 📩 **¿Dudas o soporte?** Contáctanos en nuestro servidor de Discord.  
